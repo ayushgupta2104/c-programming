@@ -1,4 +1,5 @@
-/*#include<stdio.h>
+/*charcter
+#include<stdio.h>
 int main()
 {
     char ch;
@@ -21,7 +22,8 @@ int main()
     return 0;
 
 }*/
-/*#include<stdio.h>
+/*find the greater one
+#include<stdio.h>
 int main()
 {
  int a, b, c;
@@ -42,7 +44,8 @@ int main()
     printf("c is greatest");
   return 0;
  }*/
- /* #include<stdio.h>
+ /*graades with marks
+ #include<stdio.h>
  int main()
  {
      int marks;
@@ -71,7 +74,8 @@ int main()
         return 0;}*/
 
 
- /*#include<stdio.h>
+ /*type of triangle
+ #include<stdio.h>
  int main()
  {
      int a, b,c ;
@@ -91,7 +95,8 @@ int main()
      }
      return 0;
  }*/
- /*#include<stdio.h>
+ /*day
+ #include<stdio.h>
  int main()
  {
      int day;
@@ -123,7 +128,8 @@ int main()
         break;}
         return 0;
  }*/
- /*#include<stdio.h>
+ /*month with no. of days
+ #include<stdio.h>
  int main()
 {
     int month;
@@ -170,7 +176,8 @@ int main()
         break;}
         return 0;
  }*/
-/*#include<stdio.h>
+/*profit loss
+#include<stdio.h>
 int main()
 {
     int cp, sp, profit, loss;
@@ -196,7 +203,8 @@ int main()
     }
     return 0;
 }*/
-/*#include<stdio.h>
+/*fine
+#include<stdio.h>
 int main()
 {
     int days;
@@ -222,7 +230,8 @@ int main()
         printf("membership cancelled");
     return 0;
 }*/
-/*#include<stdio.h>
+/*electricity bill
+#include<stdio.h>
 int main()
     {
         int units;
@@ -251,7 +260,8 @@ int main()
         }
     }*/
 
-/*#include<stdio.h>
+/*calculator
+#include<stdio.h>
 int main()
 {
       int a, b;
@@ -288,7 +298,8 @@ int main()
     }
         return 0;
 }*/
-/*#include<stdio.h>
+/*counting
+#include<stdio.h>
 int main()
 {
    int n, i;
@@ -301,7 +312,8 @@ int main()
    }
    return 0;
 }*/
-/*#include<stdio.h>
+/*sum of n numbers
+#include<stdio.h>
 int main()
 {
     int n,i, sum=0;
@@ -315,7 +327,8 @@ int main()
     return 0;
 
 }*/
-/*#include<stdio.h>
+/*productt of n even numbers
+#include<stdio.h>
 int main()
 {
     int n, i, prod=1;
@@ -328,7 +341,8 @@ int main()
     printf("product of %d even numbers:%d",n, prod);
     return 0;
 }*/
-/*#include<stdio.h>
+/*factorial
+#include<stdio.h>
 int main()
 {
     int n, i, fact=1;
@@ -343,7 +357,8 @@ int main()
 
     return 0;
 }*/
-/*#include<stdio.h>
+/*reverse
+#include<stdio.h>
 int main()
 {
     int n, rem, rev=0;
@@ -358,7 +373,8 @@ int main()
     printf("%d", rev);
     return 0;
 }*/
-/*#include<stdio.h>
+/*palindrome
+#include<stdio.h>
 int main()
 {
     int n, rem, rev=0, num;
@@ -377,7 +393,8 @@ int main()
         printf("its not a palindrome number");
     return 0;
 }*/
-/*#include<stdio.h>
+/*armstrong
+#include<stdio.h>
 int main()
 {
     int n, num, rem, sum=0;
@@ -436,4 +453,5 @@ int main()
         printf(" %d", i);
     return 0;
 }*/
+
 
